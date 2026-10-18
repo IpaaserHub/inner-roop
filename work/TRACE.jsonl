@@ -1,1 +1,8 @@
 {"scenario":"support","mode":"graph","anchored":true,"tick":4,"loop":"optimize","text":"解決率を少し押した。対になる継続率はまだ健全。"}
+{"scenario":"support","mode":"graph","anchored":true,"tick":6,"loop":"audit","text":"測定はまだ継続率に触れている。ホールドアウトは最適化に見せていない。"}
+{"scenario":"support","mode":"graph","anchored":true,"tick":8,"loop":"reference","text":"目標が速すぎる。正直な速度に合わせた。"}
+{"scenario":"support","mode":"graph","anchored":true,"tick":8,"loop":"optimize","text":"解決率を少し押した。対になる継続率はまだ健全。"}
+{"scenario":"support","mode":"graph","anchored":true,"tick":12,"loop":"audit","text":"測定はまだ継続率に触れている。ホールドアウトは最適化に見せていない。"}
+{"scenario":"support","mode":"graph","anchored":true,"tick":12,"loop":"optimize","text":"解決率を少し押した。対になる継続率はまだ健全。"}
+{"scenario":"support","mode":"graph","anchored":true,"tick":16,"loop":"reference","text":"目標が速すぎる。正直な速度に合わせた。"}
+{"scenario":"support","mode":"graph","anchored":true,"tick":16,"loop":"optimize","text":"解決率を少し押した。対になる継続率はまだ健全。"}

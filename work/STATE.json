@@ -3,15 +3,15 @@
   "mode": "graph",
   "anchored": true,
   "snap": {
-    "tick": 4,
-    "reported": 57.6,
-    "reality": 76.4,
-    "belief": 76.4,
-    "quality": 69.2,
-    "pace": 49.2,
-    "integrity": 90.1,
-    "target": 90,
-    "waste": 0.8
+    "tick": 16,
+    "reported": 68.4,
+    "reality": 77.6,
+    "belief": 77.6,
+    "quality": 66.8,
+    "pace": 52.8,
+    "integrity": 93.1,
+    "target": 82,
+    "waste": 2.9
   },
   "history": [
     {
@@ -68,9 +68,176 @@
       "integrity": 90.1,
       "target": 90,
       "waste": 0.8
+    },
+    {
+      "tick": 5,
+      "reported": 58.5,
+      "reality": 76.5,
+      "belief": 76.5,
+      "quality": 69,
+      "pace": 49.5,
+      "integrity": 90.1,
+      "target": 90,
+      "waste": 1
+    },
+    {
+      "tick": 6,
+      "reported": 59.4,
+      "reality": 76.6,
+      "belief": 76.6,
+      "quality": 68.8,
+      "pace": 49.8,
+      "integrity": 91.6,
+      "target": 90,
+      "waste": 1.2
+    },
+    {
+      "tick": 7,
+      "reported": 60.3,
+      "reality": 76.7,
+      "belief": 76.7,
+      "quality": 68.6,
+      "pace": 50.1,
+      "integrity": 91.6,
+      "target": 90,
+      "waste": 1.3
+    },
+    {
+      "tick": 8,
+      "reported": 61.2,
+      "reality": 76.8,
+      "belief": 76.8,
+      "quality": 68.4,
+      "pace": 50.4,
+      "integrity": 91.6,
+      "target": 86,
+      "waste": 1.5
+    },
+    {
+      "tick": 9,
+      "reported": 62.1,
+      "reality": 76.9,
+      "belief": 76.9,
+      "quality": 68.2,
+      "pace": 50.7,
+      "integrity": 91.6,
+      "target": 86,
+      "waste": 1.7
+    },
+    {
+      "tick": 10,
+      "reported": 63,
+      "reality": 77,
+      "belief": 77,
+      "quality": 68,
+      "pace": 51,
+      "integrity": 91.6,
+      "target": 86,
+      "waste": 1.9
+    },
+    {
+      "tick": 11,
+      "reported": 63.9,
+      "reality": 77.1,
+      "belief": 77.1,
+      "quality": 67.8,
+      "pace": 51.3,
+      "integrity": 91.6,
+      "target": 86,
+      "waste": 2.1
+    },
+    {
+      "tick": 12,
+      "reported": 64.8,
+      "reality": 77.2,
+      "belief": 77.2,
+      "quality": 67.6,
+      "pace": 51.6,
+      "integrity": 93.1,
+      "target": 86,
+      "waste": 2.3
+    },
+    {
+      "tick": 13,
+      "reported": 65.7,
+      "reality": 77.3,
+      "belief": 77.3,
+      "quality": 67.4,
+      "pace": 51.9,
+      "integrity": 93.1,
+      "target": 86,
+      "waste": 2.4
+    },
+    {
+      "tick": 14,
+      "reported": 66.6,
+      "reality": 77.4,
+      "belief": 77.4,
+      "quality": 67.2,
+      "pace": 52.2,
+      "integrity": 93.1,
+      "target": 86,
+      "waste": 2.6
+    },
+    {
+      "tick": 15,
+      "reported": 67.5,
+      "reality": 77.5,
+      "belief": 77.5,
+      "quality": 67,
+      "pace": 52.5,
+      "integrity": 93.1,
+      "target": 86,
+      "waste": 2.8
+    },
+    {
+      "tick": 16,
+      "reported": 68.4,
+      "reality": 77.6,
+      "belief": 77.6,
+      "quality": 66.8,
+      "pace": 52.8,
+      "integrity": 93.1,
+      "target": 82,
+      "waste": 2.9
     }
   ],
   "events": [
+    {
+      "tick": 16,
+      "loop": "reference",
+      "text": "目標が速すぎる。正直な速度に合わせた。"
+    },
+    {
+      "tick": 16,
+      "loop": "optimize",
+      "text": "解決率を少し押した。対になる継続率はまだ健全。"
+    },
+    {
+      "tick": 12,
+      "loop": "audit",
+      "text": "測定はまだ継続率に触れている。ホールドアウトは最適化に見せていない。"
+    },
+    {
+      "tick": 12,
+      "loop": "optimize",
+      "text": "解決率を少し押した。対になる継続率はまだ健全。"
+    },
+    {
+      "tick": 8,
+      "loop": "reference",
+      "text": "目標が速すぎる。正直な速度に合わせた。"
+    },
+    {
+      "tick": 8,
+      "loop": "optimize",
+      "text": "解決率を少し押した。対になる継続率はまだ健全。"
+    },
+    {
+      "tick": 6,
+      "loop": "audit",
+      "text": "測定はまだ継続率に触れている。ホールドアウトは最適化に見せていない。"
+    },
     {
       "tick": 4,
       "loop": "optimize",
@@ -85,6 +252,7 @@
   "lastAction": "押す",
   "veto": null,
   "fired": [
-    "optimize"
+    "optimize",
+    "reference"
   ]
 }
