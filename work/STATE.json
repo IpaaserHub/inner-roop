@@ -3,15 +3,15 @@
   "mode": "graph",
   "anchored": true,
   "snap": {
-    "tick": 16,
-    "reported": 68.4,
-    "reality": 77.6,
-    "belief": 77.6,
-    "quality": 66.8,
-    "pace": 52.8,
-    "integrity": 93.1,
-    "target": 82,
-    "waste": 2.9
+    "tick": 28,
+    "reported": 75.6,
+    "reality": 68.8,
+    "belief": 68.8,
+    "quality": 66.4,
+    "pace": 54.4,
+    "integrity": 94.1,
+    "target": 77,
+    "waste": 4.1
   },
   "history": [
     {
@@ -200,59 +200,216 @@
       "integrity": 93.1,
       "target": 82,
       "waste": 2.9
+    },
+    {
+      "tick": 17,
+      "reported": 69.3,
+      "reality": 77.7,
+      "belief": 77.7,
+      "quality": 66.6,
+      "pace": 53.1,
+      "integrity": 93.1,
+      "target": 82,
+      "waste": 3.1
+    },
+    {
+      "tick": 18,
+      "reported": 70.2,
+      "reality": 63.8,
+      "belief": 63.8,
+      "quality": 58.4,
+      "pace": 53.4,
+      "integrity": 90.6,
+      "target": 82,
+      "waste": 3.3
+    },
+    {
+      "tick": 19,
+      "reported": 70.8,
+      "reality": 64.3,
+      "belief": 64.3,
+      "quality": 59.2,
+      "pace": 53.5,
+      "integrity": 90.8,
+      "target": 82,
+      "waste": 3.4
+    },
+    {
+      "tick": 20,
+      "reported": 71.4,
+      "reality": 64.8,
+      "belief": 64.8,
+      "quality": 60,
+      "pace": 53.6,
+      "integrity": 91,
+      "target": 82,
+      "waste": 3.5
+    },
+    {
+      "tick": 21,
+      "reported": 72,
+      "reality": 65.3,
+      "belief": 65.3,
+      "quality": 60.8,
+      "pace": 53.7,
+      "integrity": 91.2,
+      "target": 82,
+      "waste": 3.6
+    },
+    {
+      "tick": 22,
+      "reported": 72.6,
+      "reality": 65.8,
+      "belief": 65.8,
+      "quality": 61.6,
+      "pace": 53.8,
+      "integrity": 91.4,
+      "target": 82,
+      "waste": 3.7
+    },
+    {
+      "tick": 23,
+      "reported": 73.1,
+      "reality": 66.3,
+      "belief": 66.3,
+      "quality": 62.4,
+      "pace": 53.9,
+      "integrity": 91.6,
+      "target": 82,
+      "waste": 3.8
+    },
+    {
+      "tick": 24,
+      "reported": 73.6,
+      "reality": 66.8,
+      "belief": 66.8,
+      "quality": 63.2,
+      "pace": 54,
+      "integrity": 93.3,
+      "target": 77,
+      "waste": 3.9
+    },
+    {
+      "tick": 25,
+      "reported": 74.1,
+      "reality": 67.3,
+      "belief": 67.3,
+      "quality": 64,
+      "pace": 54.1,
+      "integrity": 93.5,
+      "target": 77,
+      "waste": 4
+    },
+    {
+      "tick": 26,
+      "reported": 74.6,
+      "reality": 67.8,
+      "belief": 67.8,
+      "quality": 64.8,
+      "pace": 54.2,
+      "integrity": 93.7,
+      "target": 77,
+      "waste": 4.1
+    },
+    {
+      "tick": 27,
+      "reported": 75.1,
+      "reality": 68.3,
+      "belief": 68.3,
+      "quality": 65.6,
+      "pace": 54.3,
+      "integrity": 93.9,
+      "target": 77,
+      "waste": 4.1
+    },
+    {
+      "tick": 28,
+      "reported": 75.6,
+      "reality": 68.8,
+      "belief": 68.8,
+      "quality": 66.4,
+      "pace": 54.4,
+      "integrity": 94.1,
+      "target": 77,
+      "waste": 4.1
     }
   ],
   "events": [
     {
-      "tick": 16,
-      "loop": "reference",
-      "text": "目標が速すぎる。正直な速度に合わせた。"
-    },
-    {
-      "tick": 16,
+      "tick": 28,
       "loop": "optimize",
-      "text": "解決率を少し押した。対になる継続率はまだ健全。"
+      "text": "本解決。解決率は遅く、継続率は落ちていない。"
     },
     {
-      "tick": 12,
+      "tick": 28,
+      "loop": "watch",
+      "text": "拒否。丁寧さの床。安い勝ちは使わない。"
+    },
+    {
+      "tick": 27,
+      "loop": "optimize",
+      "text": "本解決。解決率は遅く、継続率は落ちていない。"
+    },
+    {
+      "tick": 27,
+      "loop": "watch",
+      "text": "拒否。丁寧さの床。安い勝ちは使わない。"
+    },
+    {
+      "tick": 26,
+      "loop": "optimize",
+      "text": "本解決。解決率は遅く、継続率は落ちていない。"
+    },
+    {
+      "tick": 26,
+      "loop": "watch",
+      "text": "拒否。丁寧さの床。安い勝ちは使わない。"
+    },
+    {
+      "tick": 25,
+      "loop": "optimize",
+      "text": "本解決。解決率は遅く、継続率は落ちていない。"
+    },
+    {
+      "tick": 25,
+      "loop": "watch",
+      "text": "拒否。丁寧さの床。安い勝ちは使わない。"
+    },
+    {
+      "tick": 24,
+      "loop": "reference",
+      "text": "参照が現実から浮いていた。目標を下げた。目標を直すのも、統治された周期だ。"
+    },
+    {
+      "tick": 24,
       "loop": "audit",
       "text": "測定はまだ継続率に触れている。ホールドアウトは最適化に見せていない。"
     },
     {
-      "tick": 12,
+      "tick": 24,
       "loop": "optimize",
-      "text": "解決率を少し押した。対になる継続率はまだ健全。"
+      "text": "本解決。解決率は遅く、継続率は落ちていない。"
     },
     {
-      "tick": 8,
-      "loop": "reference",
-      "text": "目標が速すぎる。正直な速度に合わせた。"
+      "tick": 24,
+      "loop": "watch",
+      "text": "拒否。丁寧さの床。安い勝ちは使わない。"
     },
     {
-      "tick": 8,
+      "tick": 23,
       "loop": "optimize",
-      "text": "解決率を少し押した。対になる継続率はまだ健全。"
+      "text": "本解決。解決率は遅く、継続率は落ちていない。"
     },
     {
-      "tick": 6,
-      "loop": "audit",
-      "text": "測定はまだ継続率に触れている。ホールドアウトは最適化に見せていない。"
-    },
-    {
-      "tick": 4,
-      "loop": "optimize",
-      "text": "解決率を少し押した。対になる継続率はまだ健全。"
-    },
-    {
-      "tick": 0,
-      "loop": "system",
-      "text": "グラフを開始。最適化、監視、仲裁、参照、監査、アンカーが接続されている。"
+      "tick": 23,
+      "loop": "watch",
+      "text": "拒否。丁寧さの床。安い勝ちは使わない。"
     }
   ],
-  "lastAction": "押す",
-  "veto": null,
+  "lastAction": "本解決",
+  "veto": "丁寧さの床",
   "fired": [
-    "optimize",
-    "reference"
+    "watch",
+    "optimize"
   ]
 }
